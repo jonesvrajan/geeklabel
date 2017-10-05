@@ -1,0 +1,116 @@
+body {
+    font-family: $font-primary, sans-serif;
+    font-size: 16px;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+    background: $bg-primary;
+    color: $color-primary;
+    font-weight: 500;
+}
+
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+
+  &:before, &:after {
+    @extend *;
+  }
+
+}
+
+h1 {
+    font-size: 28px;
+    margin: 0 0 30px;
+    @media (min-width: 768px) {
+        font-size: 55px;
+    }
+}
+
+h2 {
+    font-size: 30px;
+    margin: 0 0 30px;
+    text-align: center;
+    font-family: $font-primary;
+    font-weight: 500;
+    color: $color-top-nav;
+    @media (min-width: 768px) {
+
+        font-size: 60px;
+    
+    }
+}
+
+h3 {
+    font-size: 17px;
+    margin: 0 0 30px;
+    font-family: $font-primary;
+    font-weight: 500;
+    color: $color-top-nav;
+    @media (min-width: 768px) {
+        font-size: 17px;
+    }
+}
+
+p {
+    font-size: 14px;
+    line-height: 26px;
+    margin: 0 0 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+.btn {
+
+    font-family: $font-primary;
+    font-size: 13px;
+    display: block;
+    width: 100%;
+    padding: 8px 20px;
+    border: 0;
+    height: 40px;
+    margin: 0 0 20px;
+}
+
+#map p {
+    margin: 0;
+    font-family: $font-primary;
+    font-size: 13px;
+    line-height: 18px;
+}
+
+label {
+    font-family: $font-primary;
+    font-size: 13px; 
+    display: block;
+    text-align: left;
+    margin: 0 0 20px;
+    color: $color-primary;;
+}
+
+input, textarea {
+    font-family: $font-primary;
+    font-size: 13px; 
+    display: block;
+    text-align: left;
+    margin: 0 0 20px;
+    color: $color-primary;;
+    border: 1px solid #cccccc;
+    height: 40px;
+    width: 100%;
+    padding: 20px;
+}
+
+textarea {
+    height: 80px;
+    @media (min-width: 768px) {
+        height: 180px;  
+    }
+}

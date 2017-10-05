@@ -1,0 +1,57 @@
+.container {
+    max-width: 1086px;
+    margin: 0 auto;
+}
+
+
+.page-logo {
+    text-align: center;
+    display: block;
+    margin: 0 auto 20px;
+    max-width: 256px;
+    @media (min-width: 768px) {
+        margin-bottom: 40px;
+    }
+}
+
+.home-content p {
+    text-align: center;
+    font-size: 14px;
+    font-family: $font-primary;
+    color: #FFf;
+    max-width: 510px;
+    font-weight: 500;
+    margin: 0 auto;
+    @media (min-width: 768px) {
+        font-size: 20px;
+        line-height: 32px;
+    }
+}
+
+#map {
+    height: 300px;
+}
+
+#user-login {
+    max-width: 600px;
+    margin: 0 auto;
+    .description {
+        text-align: left;
+        margin: 0 0 10px;
+        font-size: 12px;
+    }
+
+    .form-submit {
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        background: $bg-btn;
+        color: $bg-primary;
+        border: 1px solid $color-secondary;
+    }
+} 
+
+.contact-form {
+    max-width: 450px;
+    margin: 0 auto;
+}

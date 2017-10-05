@@ -111,7 +111,7 @@
 
   <!-- <section class="section">
   <div class="section-content">
-    <figure class="animated fadeInDownShort"><img src="http://localhost/geek-label/themes/geeklabel/images/db-img.png" alt=""></figure>
+    <figure class="animated fadeInDownShort"><img src="http://geeklabel-compucorp.co.nf/themes/geeklabel/images/db-img.png" alt=""></figure>
     <p class="animated fadeInUpShort">Some agencies love <span>design,</span> but don’t know how to build</p>
   </div>
   <a href="#3rdPage" class='nav-btn animated bounceInUp'>Third section</a>
@@ -122,19 +122,19 @@
       <h2 class="animated fadeInDownShort">Services</h2>
       <ul class="row ul-reset txt-center animated fadeInUpShort">
         <li class="col col-3">
-          <figure><img src="http://localhost/geek-label/themes/geeklabel/images/icon-web-dev.png" alt=""/></figure>
+          <figure><img src="http://geeklabel-compucorp.co.nf/themes/geeklabel/images/icon-web-dev.png" alt=""/></figure>
           <p>Web Development</p>
         </li>
         <li class="col col-3">
-          <figure><img src="http://localhost/geek-label/themes/geeklabel/images/icon-brush.png" alt=""/></figure>
+          <figure><img src="http://geeklabel-compucorp.co.nf/themes/geeklabel/images/icon-brush.png" alt=""/></figure>
           <p>Design</p>
         </li>
         <li class="col col-3">
-          <figure><img src="http://localhost/geek-label/themes/geeklabel/images/icon-brand.png" alt=""/></figure>
+          <figure><img src="http://geeklabel-compucorp.co.nf/themes/geeklabel/images/icon-brand.png" alt=""/></figure>
           <p>Branding</p>
         </li>
         <li class="col col-3">
-          <figure><img src="http://localhost/geek-label/themes/geeklabel/images/icon-research.png" alt=""/></figure>
+          <figure><img src="http://geeklabel-compucorp.co.nf/themes/geeklabel/images/icon-research.png" alt=""/></figure>
           <p>UX Research</p>
         </li>
       </ul>
@@ -144,59 +144,55 @@
 
   <section class="section client-section">
     <h2 class="animated fadeInDownShort">Clients</h2>
-  <div class="slide animated fadeInUpShort">
+  <div class="slide animated fadeInUpShort large-screen-only">
   
     <ul class="row ul-reset txt-center">
       <li class="col col-4">
-        <figure><img src="http://localhost/geek-label/themes/geeklabel/images/logo-pg.png" alt=""/></figure>
+        <figure><img src="http://geeklabel-compucorp.co.nf/themes/geeklabel/images/logo-pg.png" alt=""/></figure>
       </li>
       <li class="col col-4">
-        <figure><img src="http://localhost/geek-label/themes/geeklabel/images/logo-vs.png" alt=""/></figure>
+        <figure><img src="http://geeklabel-compucorp.co.nf/themes/geeklabel/images/logo-vs.png" alt=""/></figure>
       </li>
       <li class="col col-4">
-        <figure><img src="http://localhost/geek-label/themes/geeklabel/images/logo-phse.png" alt=""/></figure>
+        <figure><img src="http://geeklabel-compucorp.co.nf/themes/geeklabel/images/logo-phse.png" alt=""/></figure>
       </li>
     </ul>
 
   </div>
-<div class="slide animated fadeInUpShort">
+<div class="slide animated fadeInUpShort large-screen-only">
 <ul class="row ul-reset txt-center">
       <li class="col col-4">
-        <figure><img src="http://localhost/geek-label/themes/geeklabel/images/logo-pg.png" alt=""/></figure>
+        <figure><img src="http://geeklabel-compucorp.co.nf/themes/geeklabel/images/logo-pg.png" alt=""/></figure>
       </li>
       <li class="col col-4">
-        <figure><img src="http://localhost/geek-label/themes/geeklabel/images/logo-vs.png" alt=""/></figure>
+        <figure><img src="http://geeklabel-compucorp.co.nf/themes/geeklabel/images/logo-vs.png" alt=""/></figure>
       </li>
       <li class="col col-4">
-        <figure><img src="http://localhost/geek-label/themes/geeklabel/images/logo-phse.png" alt=""/></figure>
+        <figure><img src="http://geeklabel-compucorp.co.nf/themes/geeklabel/images/logo-phse.png" alt=""/></figure>
       </li>
     </ul>
 </div>
-<div class="slide animated fadeInUpShort">
+
+<div class="slide animated fadeInUpShort mobile-only">
 <ul class="row ul-reset txt-center">
-<li class="col col-4">
-  <figure><img src="http://localhost/geek-label/themes/geeklabel/images/logo-pg.png" alt=""/></figure>
-</li>
-<li class="col col-4">
-  <figure><img src="http://localhost/geek-label/themes/geeklabel/images/logo-vs.png" alt=""/></figure>
-</li>
-<li class="col col-4">
-  <figure><img src="http://localhost/geek-label/themes/geeklabel/images/logo-phse.png" alt=""/></figure>
-</li>
-</ul>
+      <li>
+        <figure><img src="http://geeklabel-compucorp.co.nf/themes/geeklabel/images/logo-pg.png" alt=""/></figure>
+      </li>
+  </ul>
 </div>
-<div class="slide animated fadeInUpShort">
+<div class="slide animated fadeInUpShort mobile-only">
 <ul class="row ul-reset txt-center">
-<li class="col col-4">
-  <figure><img src="http://localhost/geek-label/themes/geeklabel/images/logo-pg.png" alt=""/></figure>
-</li>
-<li class="col col-4">
-  <figure><img src="http://localhost/geek-label/themes/geeklabel/images/logo-vs.png" alt=""/></figure>
-</li>
-<li class="col col-4">
-  <figure><img src="http://localhost/geek-label/themes/geeklabel/images/logo-phse.png" alt=""/></figure>
-</li>
-</ul>
+      <li>
+        <figure><img src="http://geeklabel-compucorp.co.nf/themes/geeklabel/images/logo-vs.png" alt=""/></figure>
+      </li>
+  </ul>
+</div>
+<div class="slide animated fadeInUpShort mobile-only">
+<ul class="row ul-reset txt-center">
+      <li>
+        <figure><img src="http://geeklabel-compucorp.co.nf/themes/geeklabel/images/logo-phse.png" alt=""/></figure>
+      </li>
+  </ul>
 </div>
 <a href="#seventhPage" class='nav-btn animated bounceInUp'></a>
   </section>
@@ -428,7 +424,7 @@
           content: contentString
         });
 
-        var image = 'http://localhost/geek-label/themes/geeklabel/images/map-marker.png';
+        var image = 'http://geeklabel-compucorp.co.nf/themes/geeklabel/images/map-marker.png';
         var beachMarker = new google.maps.Marker({
           position: {lat: 51.4977836, lng: -0.1522502},
           map: map,

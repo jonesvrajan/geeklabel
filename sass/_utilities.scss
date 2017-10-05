@@ -11,3 +11,17 @@
     margin: 0;
     padding: 0;
 }
+
+.mobile-only {
+    display: block !important;
+    @media (min-width: 768px) {
+        display: none !important;
+    }
+}
+
+.large-screen-only {
+    display: none !important;
+    @media (min-width: 768px) {
+        display: block !important;
+    }
+}
